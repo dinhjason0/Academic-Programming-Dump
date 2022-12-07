@@ -1,0 +1,7 @@
+D:\Schoolo\Coding Class 1 2020\PCE_03\PCE_03\obj\Debug\PCE_03.csprojAssemblyReference.cache
+D:\Schoolo\Coding Class 1 2020\PCE_03\PCE_03\obj\Debug\PCE_03.csproj.CoreCompileInputs.cache
+D:\Schoolo\Coding Class 1 2020\PCE_03\PCE_03\bin\Debug\PCE_02.exe.config
+D:\Schoolo\Coding Class 1 2020\PCE_03\PCE_03\bin\Debug\PCE_02.exe
+D:\Schoolo\Coding Class 1 2020\PCE_03\PCE_03\bin\Debug\PCE_02.pdb
+D:\Schoolo\Coding Class 1 2020\PCE_03\PCE_03\obj\Debug\PCE_02.exe
+D:\Schoolo\Coding Class 1 2020\PCE_03\PCE_03\obj\Debug\PCE_02.pdb

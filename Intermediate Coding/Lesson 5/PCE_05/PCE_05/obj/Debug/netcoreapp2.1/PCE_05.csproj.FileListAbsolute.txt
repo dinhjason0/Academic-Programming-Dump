@@ -1,0 +1,11 @@
+D:\to be deleted\Intermediate Coding\Lesson 5\PCE_05\PCE_05\bin\Debug\netcoreapp2.1\PCE_05.deps.json
+D:\to be deleted\Intermediate Coding\Lesson 5\PCE_05\PCE_05\bin\Debug\netcoreapp2.1\PCE_05.runtimeconfig.json
+D:\to be deleted\Intermediate Coding\Lesson 5\PCE_05\PCE_05\bin\Debug\netcoreapp2.1\PCE_05.runtimeconfig.dev.json
+D:\to be deleted\Intermediate Coding\Lesson 5\PCE_05\PCE_05\bin\Debug\netcoreapp2.1\PCE_05.dll
+D:\to be deleted\Intermediate Coding\Lesson 5\PCE_05\PCE_05\bin\Debug\netcoreapp2.1\PCE_05.pdb
+D:\to be deleted\Intermediate Coding\Lesson 5\PCE_05\PCE_05\obj\Debug\netcoreapp2.1\PCE_05.csprojAssemblyReference.cache
+D:\to be deleted\Intermediate Coding\Lesson 5\PCE_05\PCE_05\obj\Debug\netcoreapp2.1\PCE_05.csproj.CoreCompileInputs.cache
+D:\to be deleted\Intermediate Coding\Lesson 5\PCE_05\PCE_05\obj\Debug\netcoreapp2.1\PCE_05.AssemblyInfoInputs.cache
+D:\to be deleted\Intermediate Coding\Lesson 5\PCE_05\PCE_05\obj\Debug\netcoreapp2.1\PCE_05.AssemblyInfo.cs
+D:\to be deleted\Intermediate Coding\Lesson 5\PCE_05\PCE_05\obj\Debug\netcoreapp2.1\PCE_05.dll
+D:\to be deleted\Intermediate Coding\Lesson 5\PCE_05\PCE_05\obj\Debug\netcoreapp2.1\PCE_05.pdb

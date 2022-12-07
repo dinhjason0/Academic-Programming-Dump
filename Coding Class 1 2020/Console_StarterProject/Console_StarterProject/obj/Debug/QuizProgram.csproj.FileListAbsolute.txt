@@ -1,0 +1,6 @@
+D:\Schoolo\Coding Class 1 2020\Console_StarterProject\Console_StarterProject\bin\Debug\QuizProgram.exe
+D:\Schoolo\Coding Class 1 2020\Console_StarterProject\Console_StarterProject\bin\Debug\QuizProgram.pdb
+D:\Schoolo\Coding Class 1 2020\Console_StarterProject\Console_StarterProject\obj\Debug\QuizProgram.csprojAssemblyReference.cache
+D:\Schoolo\Coding Class 1 2020\Console_StarterProject\Console_StarterProject\obj\Debug\QuizProgram.csproj.CoreCompileInputs.cache
+D:\Schoolo\Coding Class 1 2020\Console_StarterProject\Console_StarterProject\obj\Debug\QuizProgram.exe
+D:\Schoolo\Coding Class 1 2020\Console_StarterProject\Console_StarterProject\obj\Debug\QuizProgram.pdb

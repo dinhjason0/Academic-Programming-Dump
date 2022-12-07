@@ -1,0 +1,11 @@
+D:\to be deleted\Intermediate Coding\Lesson 6\bin\Debug\netcoreapp2.1\PCE_06_Project.deps.json
+D:\to be deleted\Intermediate Coding\Lesson 6\bin\Debug\netcoreapp2.1\PCE_06_Project.runtimeconfig.json
+D:\to be deleted\Intermediate Coding\Lesson 6\bin\Debug\netcoreapp2.1\PCE_06_Project.runtimeconfig.dev.json
+D:\to be deleted\Intermediate Coding\Lesson 6\bin\Debug\netcoreapp2.1\PCE_06_Project.dll
+D:\to be deleted\Intermediate Coding\Lesson 6\bin\Debug\netcoreapp2.1\PCE_06_Project.pdb
+D:\to be deleted\Intermediate Coding\Lesson 6\obj\Debug\netcoreapp2.1\PCE_06_Project.csprojAssemblyReference.cache
+D:\to be deleted\Intermediate Coding\Lesson 6\obj\Debug\netcoreapp2.1\PCE_06_Project.csproj.CoreCompileInputs.cache
+D:\to be deleted\Intermediate Coding\Lesson 6\obj\Debug\netcoreapp2.1\PCE_06_Project.AssemblyInfoInputs.cache
+D:\to be deleted\Intermediate Coding\Lesson 6\obj\Debug\netcoreapp2.1\PCE_06_Project.AssemblyInfo.cs
+D:\to be deleted\Intermediate Coding\Lesson 6\obj\Debug\netcoreapp2.1\PCE_06_Project.dll
+D:\to be deleted\Intermediate Coding\Lesson 6\obj\Debug\netcoreapp2.1\PCE_06_Project.pdb

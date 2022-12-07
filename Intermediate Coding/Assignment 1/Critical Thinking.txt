@@ -1,0 +1,20 @@
+JASON TRUONG
+BIT 142
+A1.1
+
+For all of the following questions, assume that you're working with the equation
+	A % B = C.
+For each question, clearly and concisely state your answer, as well as an intuitive, easy-to-understand explanation explaining why you always get the answer that you do. 
+Imagine that you're trying to explain this to someone who neither programs, nor does much math.
+
+ 
+
+1.      When A is less than B, what will C be?
+
+	C would be A. Since Modulus relies on remainders, the remainder of a hypothetical problem; A = 2, B = 3, C would be 2.
+	Because 2/3 (looking at only whole numbers because Modulus doesn't look at decimals.) would have a remainder of 2, thus C would equate to 2. 
+
+2.      When A is == B, what will C be?
+	
+	C would be zero, because when doing a modular from A and B equating to each other; those two divided would not have anything remaining. So it produces a 0, and is stored in C.
+	For example: if A = 3 and B = 3, we would have to check 3/3; then use the remainder as C. Since 3/3 cleanly divides into 1 with a reaminder of 0, C is 0.

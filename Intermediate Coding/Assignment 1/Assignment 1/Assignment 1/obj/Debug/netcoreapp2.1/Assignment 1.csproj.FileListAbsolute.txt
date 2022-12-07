@@ -1,0 +1,11 @@
+D:\to be deleted\Intermediate Coding\Assignment 1\Assignment 1\Assignment 1\bin\Debug\netcoreapp2.1\Assignment 1.deps.json
+D:\to be deleted\Intermediate Coding\Assignment 1\Assignment 1\Assignment 1\bin\Debug\netcoreapp2.1\Assignment 1.runtimeconfig.json
+D:\to be deleted\Intermediate Coding\Assignment 1\Assignment 1\Assignment 1\bin\Debug\netcoreapp2.1\Assignment 1.runtimeconfig.dev.json
+D:\to be deleted\Intermediate Coding\Assignment 1\Assignment 1\Assignment 1\bin\Debug\netcoreapp2.1\Assignment 1.dll
+D:\to be deleted\Intermediate Coding\Assignment 1\Assignment 1\Assignment 1\bin\Debug\netcoreapp2.1\Assignment 1.pdb
+D:\to be deleted\Intermediate Coding\Assignment 1\Assignment 1\Assignment 1\obj\Debug\netcoreapp2.1\Assignment 1.csprojAssemblyReference.cache
+D:\to be deleted\Intermediate Coding\Assignment 1\Assignment 1\Assignment 1\obj\Debug\netcoreapp2.1\Assignment 1.csproj.CoreCompileInputs.cache
+D:\to be deleted\Intermediate Coding\Assignment 1\Assignment 1\Assignment 1\obj\Debug\netcoreapp2.1\Assignment 1.AssemblyInfoInputs.cache
+D:\to be deleted\Intermediate Coding\Assignment 1\Assignment 1\Assignment 1\obj\Debug\netcoreapp2.1\Assignment 1.AssemblyInfo.cs
+D:\to be deleted\Intermediate Coding\Assignment 1\Assignment 1\Assignment 1\obj\Debug\netcoreapp2.1\Assignment 1.dll
+D:\to be deleted\Intermediate Coding\Assignment 1\Assignment 1\Assignment 1\obj\Debug\netcoreapp2.1\Assignment 1.pdb

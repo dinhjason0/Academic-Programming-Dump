@@ -1,0 +1,13 @@
+D:\to be deleted\Intermediate Coding\Second assignemnt\A3_Date_Starter\bin\Debug\netcoreapp2.1\A2_MyDate_NoLeap_NoObjParams_VS_2019_NUnit_3_0.deps.json
+D:\to be deleted\Intermediate Coding\Second assignemnt\A3_Date_Starter\bin\Debug\netcoreapp2.1\A2_MyDate_NoLeap_NoObjParams_VS_2019_NUnit_3_0.runtimeconfig.json
+D:\to be deleted\Intermediate Coding\Second assignemnt\A3_Date_Starter\bin\Debug\netcoreapp2.1\A2_MyDate_NoLeap_NoObjParams_VS_2019_NUnit_3_0.runtimeconfig.dev.json
+D:\to be deleted\Intermediate Coding\Second assignemnt\A3_Date_Starter\bin\Debug\netcoreapp2.1\A2_MyDate_NoLeap_NoObjParams_VS_2019_NUnit_3_0.dll
+D:\to be deleted\Intermediate Coding\Second assignemnt\A3_Date_Starter\bin\Debug\netcoreapp2.1\A2_MyDate_NoLeap_NoObjParams_VS_2019_NUnit_3_0.pdb
+D:\to be deleted\Intermediate Coding\Second assignemnt\A3_Date_Starter\bin\Debug\netcoreapp2.1\MyDate_INSTRUCTOR_SOLUTION.dll
+D:\to be deleted\Intermediate Coding\Second assignemnt\A3_Date_Starter\obj\Debug\netcoreapp2.1\A2_MyDate_NoLeap_NoObjParams_VS_2019_NUnit_3_0.csprojAssemblyReference.cache
+D:\to be deleted\Intermediate Coding\Second assignemnt\A3_Date_Starter\obj\Debug\netcoreapp2.1\A2_MyDate_NoLeap_NoObjParams_VS_2019_NUnit_3_0.csproj.CoreCompileInputs.cache
+D:\to be deleted\Intermediate Coding\Second assignemnt\A3_Date_Starter\obj\Debug\netcoreapp2.1\A2_MyDate_NoLeap_NoObjParams_VS_2019_NUnit_3_0.AssemblyInfoInputs.cache
+D:\to be deleted\Intermediate Coding\Second assignemnt\A3_Date_Starter\obj\Debug\netcoreapp2.1\A2_MyDate_NoLeap_NoObjParams_VS_2019_NUnit_3_0.AssemblyInfo.cs
+D:\to be deleted\Intermediate Coding\Second assignemnt\A3_Date_Starter\obj\Debug\netcoreapp2.1\A2_MyDate_NoLeap_NoObjParams_VS_2019_NUnit_3_0.csproj.CopyComplete
+D:\to be deleted\Intermediate Coding\Second assignemnt\A3_Date_Starter\obj\Debug\netcoreapp2.1\A2_MyDate_NoLeap_NoObjParams_VS_2019_NUnit_3_0.dll
+D:\to be deleted\Intermediate Coding\Second assignemnt\A3_Date_Starter\obj\Debug\netcoreapp2.1\A2_MyDate_NoLeap_NoObjParams_VS_2019_NUnit_3_0.pdb
